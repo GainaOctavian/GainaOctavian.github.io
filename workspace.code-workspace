@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "E:\\Descarcari\\msys2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
