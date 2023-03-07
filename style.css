@@ -203,15 +203,15 @@ a:hover{
     margin-left: 22.5%;
     border-radius: 50%; 
     
-   
   }
+  
   
   .bgimage {
     height:75%;
     width:50%;
     border-radius: 50%; 
     border: 5px;
-    border-color: aquamarine;
+    border-color: aquamarine;;
   }
   .hero-text {
     text-align: center;
@@ -348,6 +348,16 @@ a:hover{
   .hero_desc {
     font-size: 2rem;
   }
+}
+
+.bgimage{
+  box-shadow: 16px 14px 20px #0000008c;
+  overflow: hidden;
+  border-radius:10px;
+}
+
+.hero-text{
+  text-shadow:8px 8px 16px #222831;
 }
 
 .transition-fade{
